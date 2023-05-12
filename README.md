@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @7der
-- 👀 I’m interested in ...
+- 👀 I’m interested in Data Analytics and Arduino Programming
 - 🌱 I’m currently learning Python and Machine Learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at discord - Wond3r#6534
 
 <!---
